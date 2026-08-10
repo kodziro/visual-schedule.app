@@ -150,6 +150,7 @@ footer .wrap.foot-bottom{display:block}
 .article-hero{background:linear-gradient(160deg,#e6f0fc,#f2f7fd);padding:64px 0 44px;border-bottom:1px solid var(--line)}
 .crumb{font-size:.88rem;font-weight:800;margin-bottom:16px}
 .crumb a{text-decoration:none}
+.byline{font-size:.88rem;color:var(--ink-soft);margin-top:14px}
 .article{max-width:760px;margin:0 auto;padding:48px 22px}
 .article h2{margin-top:2em}
 .article p,.article li{color:#3c4a66}
