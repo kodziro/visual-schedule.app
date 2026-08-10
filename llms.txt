@@ -1,0 +1,45 @@
+# Visual Schedule (Visual Schedule Daily Routine)
+
+> Visual Schedule is an iOS app that shows a child's day as pictures, icons and
+> timers, so kids can follow their routine on their own. Made for children with
+> autism, ADHD and focus challenges — and any kid who does better when the day
+> is visible. Free to download on the App Store; optional premium features via
+> in-app purchase.
+
+Developer: Natalia Jakubczyk-Gajewska (Apps for Parents).
+Website: https://visual-schedule.app/
+
+## Key facts
+
+- Platform: iPhone, iPad & Mac (Apple only — there is no Android version)
+- Price: free to download; optional premium features via in-app purchase
+- App Store rating: 4.4 stars (769 ratings)
+- Used by 10,000+ families
+- Age rating: 4+; available in 21 languages
+- 130+ built-in task icons; also supports your own photos, Pixabay images, and
+  AI-generated icons via Apple Intelligence (Image Playground)
+- Full-screen visual timer with final countdown, visual and sound alerts
+- Start times and reminders per activity
+- Kid Profiles: separate profile per child (schedules, tasks, progress)
+- Ready-made routine templates; color-coded week view; confetti celebration
+- Can be used as a first-then board (two-task schedule)
+- App Store: https://apps.apple.com/app/apple-store/id1508150689?pt=118868513&ct=webnew&mt=8
+
+## Guides
+
+- [How to Create a Visual Schedule for an Autistic Child](https://visual-schedule.app/guides/visual-schedule-for-autism.html): step-by-step setup, why visual supports help
+- [ADHD Daily Routine for Kids](https://visual-schedule.app/guides/adhd-daily-routine-for-kids.html): getting a child with ADHD to follow a routine without nagging
+- [Morning Routine Chart for Kids](https://visual-schedule.app/guides/morning-routine-chart-for-kids.html): end the before-school chaos
+- [Bedtime Routine Chart for Kids](https://visual-schedule.app/guides/bedtime-routine-chart-for-kids.html): wind down without the fight
+- [Picture Schedule for Toddlers & Non-Readers](https://visual-schedule.app/guides/picture-schedule-for-toddlers.html): icons and real photos instead of words
+- [Visual Timer for Kids](https://visual-schedule.app/guides/visual-timer-for-kids.html): making time visible for ADHD & autism
+- [First-Then Board App](https://visual-schedule.app/guides/first-then-board-app.html): the classic strategy, run digitally
+- [Autism Transition Strategies](https://visual-schedule.app/guides/autism-transition-strategies.html): preventing meltdowns between activities
+- [After-School Routine for Kids](https://visual-schedule.app/guides/after-school-routine-for-kids.html): homework, play & screens without the fight
+- [Classroom Visual Schedule](https://visual-schedule.app/guides/classroom-visual-schedule.html): a digital setup for teachers & special education
+
+## Contact & legal
+
+- Support: AppsForParents@gmail.com
+- Privacy Policy: https://sites.google.com/site/appsforparentsprivacy/
+- Terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
