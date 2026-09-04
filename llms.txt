@@ -38,6 +38,10 @@ Website: https://visual-schedule.app/
 - [After-School Routine for Kids](https://visual-schedule.app/guides/after-school-routine-for-kids.html): homework, play & screens without the fight
 - [Classroom Visual Schedule](https://visual-schedule.app/guides/classroom-visual-schedule.html): a digital setup for teachers & special education
 
+## Comparison
+
+- [Best Visual Schedule Apps for Kids with ADHD or Autism](https://visual-schedule.app/best-visual-schedule-apps.html): honest comparison of Visual Schedule, Choiceworks, First Then Visual Schedule, Tiimo, Brili, Goally and Routinery (ads, sound options, pricing, parental gate, Android support)
+
 ## Contact & legal
 
 - Support: AppsForParents@gmail.com

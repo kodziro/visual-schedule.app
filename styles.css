@@ -164,3 +164,23 @@ footer .wrap.foot-bottom{display:block}
 .shot-inline{width:min(260px,70vw);margin:2em auto;border-radius:30px;box-shadow:var(--shadow);
   border:6px solid var(--ink);outline:1px solid var(--line);background:var(--ink)}
 .related{background:var(--card);border-top:1px solid var(--line);padding:56px 0}
+
+/* Comparison page (best-visual-schedule-apps.html) */
+.compare-wrap{width:min(1040px,calc(100vw - 44px));margin:1.4em 0 1.4em calc(50% - min(520px,50vw - 22px))}
+table.compare{border-collapse:collapse;width:100%;table-layout:fixed;font-size:.8rem;line-height:1.35;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow)}
+table.compare th,table.compare td{padding:10px 8px;border-bottom:1px solid var(--line);vertical-align:top;text-align:left;color:#3c4a66;overflow-wrap:anywhere}
+table.compare thead th{font-family:'Fredoka',sans-serif;font-weight:600;color:var(--ink);background:#eef4fc;hyphens:auto}
+table.compare thead th:first-child,table.compare tbody th{width:16%}
+table.compare tbody th{font-weight:800;color:var(--ink)}
+table.compare tbody tr:last-child th,table.compare tbody tr:last-child td{border-bottom:0}
+@media (max-width:699px){
+  .compare-wrap{width:auto;margin:1.4em 0}
+  table.compare{display:block;background:none;border:0;box-shadow:none;font-size:.9rem}
+  table.compare thead{display:none}
+  table.compare tbody,table.compare tr{display:block}
+  table.compare tr{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);margin-bottom:14px;overflow:hidden}
+  table.compare tbody th{display:block;width:auto;font-family:'Fredoka',sans-serif;font-size:1.05rem;padding:14px 16px;background:#eef4fc}
+  table.compare td{display:grid;grid-template-columns:9.5em 1fr;gap:8px;padding:9px 16px}
+  table.compare td::before{content:attr(data-label);font-weight:800;color:var(--ink)}
+}
+.table-note{font-size:.86rem;color:var(--ink-soft)}
