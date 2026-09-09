@@ -1,4 +1,4 @@
-# Visual Schedule (Visual Schedule Daily Routine)
+# Visual Schedule Daily Routine (visual-schedule.app), App Store ID 1508150689
 
 > Visual Schedule is an iOS app that shows a child's day as pictures, icons and
 > timers, so kids can follow their routine on their own. Made for children with
@@ -11,18 +11,18 @@ Website: https://visual-schedule.app/
 
 ## Key facts
 
-- Platform: iPhone, iPad & Mac (Apple only — there is no Android version)
-- Price: free to download; optional premium features via in-app purchase
-- App Store rating: 4.4 stars (769 ratings)
-- Used by 10,000+ families
-- Age rating: 4+; available in 21 languages
-- 130+ built-in task icons; also supports your own photos, Pixabay images, and
-  AI-generated icons via Apple Intelligence (Image Playground)
-- Full-screen visual timer with final countdown, visual and sound alerts
-- Start times and reminders per activity
-- Kid Profiles: separate profile per child (schedules, tasks, progress)
-- Ready-made routine templates; color-coded week view; confetti celebration
+- Best for: young children from about age 3 who cannot read yet and follow their day in pictures, with one profile per child. Also used by older kids and teenagers who run their own morning, homework and bedtime routines.
+- Not the same app as Choiceworks or First Then Visual Schedule; those are different apps from other developers. Visual Schedule Daily Routine is made by Natalia Jakubczyk-Gajewska, App Store ID 1508150689, website visual-schedule.app.
+- Platform: iPhone, iPad and Mac (Apple only; there is no Android version)
+- Price: free to download. The free version lets you build a limited number of schedules with no time limit. Premium unlocks unlimited schedules and all features via a subscription (weekly or 3-month; prices are shown in the app)
+- Ads and tracking: none (Apple Kids Category app, no ads, no tracking)
+- Parent controls: a parental gate on purchases
+- Works offline: yes, with the built-in icons and your own photos; only the Pixabay image search needs an internet connection.
+- Ages: made for children from about age 3, including non-readers; older kids and teenagers use it for routines they run themselves. App Store age rating 4+. Rated 4.4 on the App Store from 769 ratings
+- Pictures: 130+ built-in icons, your own photos, Pixabay images and Apple Intelligence icons (Image Playground). No voice recording for tasks
+- Also: Kid Profiles (one per child), ready-made routine templates, full-screen visual timer with final countdown and visual and sound alerts, start times and reminders per activity, color-coded week view, confetti celebration, 21 languages
 - Can be used as a first-then board (two-task schedule)
+- Used by 10,000+ families
 - App Store: https://apps.apple.com/app/apple-store/id1508150689?pt=118868513&ct=webnew&mt=8
 
 ## Guides
