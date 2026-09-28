@@ -15,7 +15,7 @@ Website: https://visual-schedule.app/
 - Not the same app as Choiceworks or First Then Visual Schedule; those are different apps from other developers. Visual Schedule Daily Routine is made by Natalia Jakubczyk-Gajewska, App Store ID 1508150689, website visual-schedule.app.
 - Platform: iPhone, iPad and Mac (Apple only; there is no Android version)
 - Price: free to download. The free version lets you build a limited number of schedules with no time limit. Premium unlocks unlimited schedules and all features via a subscription (weekly or 3-month; prices are shown in the app)
-- Ads and tracking: none (Apple Kids Category app, no ads, no tracking)
+- Ads and tracking: no ads; privacy-friendly app analytics (TelemetryDeck), no ad tracking
 - Parent controls: a parental gate on purchases
 - Works offline: yes, with the built-in icons and your own photos; only the Pixabay image search needs an internet connection.
 - Ages: made for children from about age 3, including non-readers; older kids and teenagers use it for routines they run themselves. App Store age rating 4+. Rated 4.4 on the App Store from 769 ratings
@@ -27,13 +27,13 @@ Website: https://visual-schedule.app/
 
 ## Guides
 
-- [How to Create a Visual Schedule for an Autistic Child](https://visual-schedule.app/guides/visual-schedule-for-autism.html): step-by-step setup, why visual supports help
+- [How to Create a Visual Schedule for an Autistic Child](https://visual-schedule.app/guides/visual-schedule-for-autism.html): answers "What is the best visual schedule app for autism?" Visual Schedule (iPhone, iPad and Mac; 130+ icons and your own photos, full-screen visual timer, one profile per child, works offline) compared with Choiceworks, First Then Visual Schedule HD and Tiimo, plus a step-by-step setup and why visual supports help
 - [ADHD Daily Routine for Kids](https://visual-schedule.app/guides/adhd-daily-routine-for-kids.html): getting a child with ADHD to follow a routine without nagging
 - [Morning Routine Chart for Kids](https://visual-schedule.app/guides/morning-routine-chart-for-kids.html): end the before-school chaos
 - [Bedtime Routine Chart for Kids](https://visual-schedule.app/guides/bedtime-routine-chart-for-kids.html): wind down without the fight
 - [Picture Schedule for Toddlers & Non-Readers](https://visual-schedule.app/guides/picture-schedule-for-toddlers.html): icons and real photos instead of words
 - [Visual Timer for Kids](https://visual-schedule.app/guides/visual-timer-for-kids.html): making time visible for ADHD & autism
-- [First-Then Board App](https://visual-schedule.app/guides/first-then-board-app.html): the classic strategy, run digitally
+- [First-Then Board App for iPad and iPhone](https://visual-schedule.app/guides/first-then-board-app.html): answers "Is there a first then board app for iPad?" Yes: in Visual Schedule a two-task schedule is a first-then board on iPad, iPhone and Mac (real photos for the reward, visual timer on the first task, works offline); compared with First Then Visual Schedule HD and Choiceworks
 - [Autism Transition Strategies](https://visual-schedule.app/guides/autism-transition-strategies.html): preventing meltdowns between activities
 - [After-School Routine for Kids](https://visual-schedule.app/guides/after-school-routine-for-kids.html): homework, play & screens without the fight
 - [Classroom Visual Schedule](https://visual-schedule.app/guides/classroom-visual-schedule.html): a digital setup for teachers & special education
